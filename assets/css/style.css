@@ -170,6 +170,9 @@ nav #name1 {
     border-right:2px solid;
     border-color:#cccccc;
 }
+h2 a {
+    color:white;
+}
 
 @media screen and (max-width: 783px){
     .left1, .right1 {
